@@ -2,13 +2,15 @@
   "employees": [
     {
       "id": 1,
-      "fullName": "",
-      "emailAddress": "",
-      "mobile": "",
-      "role": "",
+      "fullName": "Manish",
+      "emailAddress": "manish.singh26@ibm.com",
+      "mobile": "7409642584",
+      "role": "IBM Cloud Fullstack - Application Developer",
       "skills" : "CoreJava, Java8, Spring Boot, Rest Webservice, Jenkins, Swagger, Postman", 
-      "experience": "",
-      "location": "",
+      "experience": "3.10  years",
+      "location": "Gurgaon",
+      "certification": "IBM Cloud technical advocate v3",
+      "availability": "Immediate"
     }
   ],
 }
