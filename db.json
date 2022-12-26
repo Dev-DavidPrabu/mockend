@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "employees": [
     {
       "id": 1,
-      "title": "hello"
+      "fullName": "",
+      "emailAddress": "",
+      "mobile": "",
+      "role": "",
+      "skills" : "CoreJava, Java8, Spring Boot, Rest Webservice, Jenkins, Swagger, Postman", 
+      "experience": "",
+      "location": "",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
